@@ -1,0 +1,6 @@
+@TeamOrbit_HostAddress = http://localhost:5160
+
+GET {{TeamOrbit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
